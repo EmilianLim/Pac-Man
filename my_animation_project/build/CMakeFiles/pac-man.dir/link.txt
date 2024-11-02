@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/pac-man.dir/main.cpp.o  -o pac-man  third_party/FTXUI/libftxui-screen.a third_party/FTXUI/libftxui-dom.a third_party/FTXUI/libftxui-component.a third_party/FTXUI/libftxui-dom.a third_party/FTXUI/libftxui-screen.a -lpthread 
